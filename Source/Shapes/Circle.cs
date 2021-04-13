@@ -24,7 +24,7 @@ namespace CV_Tasks.Shapes
         {
             #region Check Region
 
-            if (radius <= 0) throw new ArgumentException("Круга с таким радиусом не существует!");
+            if (radius <= 0) throw new ArgumentException("Круг с таким радиусом не существует!");
 
             #endregion
 
