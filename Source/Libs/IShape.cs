@@ -1,4 +1,4 @@
-namespace Source.Libs
+namespace CV_Tasks.Libs
 {
     public interface IShape
     {

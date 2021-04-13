@@ -1,14 +1,14 @@
 ﻿
 #region Usings
 
-using Source.Libs;
+using CV_Tasks.Libs;
 using System;
 
 #endregion
 
 namespace CV_Tasks.Shapes
 {
-    public class Triangle : IShape
+    public sealed class Triangle : IShape
     {
         // Все стороны треугольника
         public readonly double A;
@@ -22,7 +22,7 @@ namespace CV_Tasks.Shapes
             #region Check Region
 
             // Проверка введеных данных.
-            if (a == 0 || b == 0 || c == 0) throw new ArgumentNullException("Введены пустые значения сторон треугольника!");
+            if (a <= 0 || b <= 0 || c <= 0) throw new ArgumentNullException("Введены неправильные значения сторон!");
 
             // Треугольник существует тогда и только тогда, когда сумма двух сторон больше третьей.
             if ((a + b) < c || (a + c) < b || (b + c) < a) throw new ArgumentException("Треугольника с такими значениями не существует!");
