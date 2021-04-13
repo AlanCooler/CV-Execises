@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "myWHH7EXJhyE5NQ8BHW/fx1ijbJXOO/1VC9UbVeLV0WejJUuCQyRv7xAsdACrrx4BhLfG/aqzwEbHmcDcDSBoQ==",
+  "dgSpecHash": "GnBjULZRBYaB/ljnqHrFTL7uOPqTiYPrpxmOrfs4ImmngR8fQFD2YvB9CoVSEQ1vHBSFIS2rGR8/8IAKDsRL4A==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CV-Tasks\\CV-Tasks.csproj",
+  "projectFilePath": "C:\\Projects\\CV-Tasks\\Source\\CV-Tasks.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

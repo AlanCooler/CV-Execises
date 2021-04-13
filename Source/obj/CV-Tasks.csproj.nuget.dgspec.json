@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CV-Tasks\\CV-Tasks.csproj": {}
+    "C:\\Projects\\CV-Tasks\\Source\\CV-Tasks.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CV-Tasks\\CV-Tasks.csproj": {
+    "C:\\Projects\\CV-Tasks\\Source\\CV-Tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CV-Tasks\\CV-Tasks.csproj",
+        "projectUniqueName": "C:\\Projects\\CV-Tasks\\Source\\CV-Tasks.csproj",
         "projectName": "CV-Tasks",
-        "projectPath": "C:\\Projects\\CV-Tasks\\CV-Tasks.csproj",
+        "projectPath": "C:\\Projects\\CV-Tasks\\Source\\CV-Tasks.csproj",
         "packagesPath": "C:\\Users\\musin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CV-Tasks\\obj\\",
+        "outputPath": "C:\\Projects\\CV-Tasks\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

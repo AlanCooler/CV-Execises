@@ -7,6 +7,6 @@ namespace Source.Libs
         /// Метод который считает площадь фигуры
         /// </summary>
         /// <returns>Площадь фигуры</returns>
-         double Area();
+         double CountArea();
     }
 }
