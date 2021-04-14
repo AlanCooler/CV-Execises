@@ -8,13 +8,15 @@ namespace CV_Tasks
     {
         public static void Main(string[] args)
         {
-        
-            IShape triangle = new Triangle(3, 5, 4);
-            IShape circle = new Circle(15);
-
-            Console.WriteLine(circle.CountArea());
-        
-        
+            try
+            {
+                double triangleArea = new Triangle(10, 10, 10).CountArea();
+                Console.WriteLine(triangleArea);
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }

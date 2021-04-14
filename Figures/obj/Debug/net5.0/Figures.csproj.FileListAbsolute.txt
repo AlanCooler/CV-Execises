@@ -1,0 +1,12 @@
+C:\Projects\CV-Tasks\Figures\bin\Debug\net5.0\Figures.deps.json
+C:\Projects\CV-Tasks\Figures\bin\Debug\net5.0\Figures.dll
+C:\Projects\CV-Tasks\Figures\bin\Debug\net5.0\ref\Figures.dll
+C:\Projects\CV-Tasks\Figures\bin\Debug\net5.0\Figures.pdb
+C:\Projects\CV-Tasks\Figures\obj\Debug\net5.0\Figures.csprojAssemblyReference.cache
+C:\Projects\CV-Tasks\Figures\obj\Debug\net5.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CV-Tasks\Figures\obj\Debug\net5.0\Figures.AssemblyInfoInputs.cache
+C:\Projects\CV-Tasks\Figures\obj\Debug\net5.0\Figures.AssemblyInfo.cs
+C:\Projects\CV-Tasks\Figures\obj\Debug\net5.0\Figures.csproj.CoreCompileInputs.cache
+C:\Projects\CV-Tasks\Figures\obj\Debug\net5.0\Figures.dll
+C:\Projects\CV-Tasks\Figures\obj\Debug\net5.0\ref\Figures.dll
+C:\Projects\CV-Tasks\Figures\obj\Debug\net5.0\Figures.pdb
